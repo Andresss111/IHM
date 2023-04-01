@@ -1,0 +1,11 @@
+input{
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.backg{
+    background-color: red;
+    width: 300px;
+    border-radius: 10px;
+    margin-left : 40%;
+}
